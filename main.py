@@ -8,6 +8,8 @@ def main():
     num2 = int(input("Enter your number 2:"))
     
     mul(num1, num2)
+    add(num1, num2) # hahahaha
+
     # Member A call method add() at line: 8
     # Member B call method diff() at line: 8
     # Member C call method mul() at line: 8
